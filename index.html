@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ArkenApps – Offline Native Tools</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+:root{
+  --bg:#0b1220;
+  --panel:#111827;
+  --text:#e5e7eb;
+  --muted:#9ca3af;
+  --accent:#38bdf8;
+}
+
+*{box-sizing:border-box}
+
+body{
+  margin:0;
+  font-family:Segoe UI, Inter, system-ui;
+  background:linear-gradient(180deg,#020617,#0b1220);
+  color:var(--text);
+}
+
+/* ===== HERO ===== */
+.hero{
+  padding:90px 20px;
+  text-align:center;
+}
+
+.hero img{
+  width:92px;
+  margin-bottom:20px;
+}
+
+.hero h1{
+  font-size:46px;
+  margin:10px 0;
+}
+
+.hero p{
+  max-width:680px;
+  margin:0 auto 30px;
+  color:var(--muted);
+  font-size:18px;
+}
+
+.hero a{
+  display:inline-block;
+  margin:8px;
+  padding:14px 28px;
+  border-radius:14px;
+  text-decoration:none;
+  font-weight:600;
+}
+
+.btn-primary{
+  background:linear-gradient(90deg,#38bdf8,#0ea5e9);
+  color:#020617;
+}
+
+.btn-ghost{
+  border:1px solid #334155;
+  color:var(--text);
+}
+
+/* ===== SECTION ===== */
+.section{
+  max-width:1100px;
+  margin:0 auto;
+  padding:60px 20px;
+}
+
+.cards{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:24px;
+}
+
+.card{
+  background:rgba(17,24,39,.85);
+  border:1px solid #1e293b;
+  border-radius:18px;
+  padding:24px;
+  transition:.25s;
+}
+
+.card:hover{
+  transform:translateY(-6px);
+  border-color:var(--accent);
+}
+
+.card h3{
+  margin-top:0;
+}
+
+/* ===== FOOTER ===== */
+footer{
+  text-align:center;
+  padding:40px 20px;
+  color:var(--muted);
+  border-top:1px solid #1e293b;
+}
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <img src="assets/logo.png" alt="ArkenApps">
+  <h1>ArkenApps</h1>
+  <p>
+    Offline-first. Native. Professional.<br>
+    We build fast, reliable Windows tools that respect privacy and just work.
+  </p>
+
+  <a href="https://github.com/ArkenApps" class="btn-primary">View GitHub</a>
+  <a href="#apps" class="btn-ghost">Explore Apps</a>
+</section>
+
+<!-- APPS -->
+<section class="section" id="apps">
+  <h2>🚀 Featured Apps</h2>
+
+  <div class="cards">
+
+    <div class="card">
+      <h3>📁 Romy Organizer</h3>
+      <p>
+        Clean messy folders safely, categorize files intelligently,
+        and generate a beautiful offline report.
+      </p>
+      <p><strong>Windows • Offline • Native</strong></p>
+      <a href="https://github.com/ArkenApps/RomyOrganizer" class="btn-ghost">
+        View Repo →
+      </a>
+    </div>
+
+    <div class="card">
+      <h3>🧠 More Coming Soon</h3>
+      <p>
+        Network tools, productivity utilities, and system helpers
+        designed for professionals.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+<!-- PHILOSOPHY -->
+<section class="section">
+  <h2>🎯 Our Philosophy</h2>
+  <div class="cards">
+    <div class="card">🔒 Privacy First — No cloud dependency</div>
+    <div class="card">⚡ Native Speed — No bloat</div>
+    <div class="card">🖥️ Windows-Focused — Built for real desktops</div>
+    <div class="card">🧠 Thoughtful UX — Simple & powerful</div>
+  </div>
+</section>
+
+<footer>
+  © 2026 ArkenApps • Built with passion & precision<br>
+  arkenapps@gmail.com
+</footer>
+
+</body>
+</html>
