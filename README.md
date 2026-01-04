@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArkenApps/assets/main/aklogo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ArkenApps/main/aklogo.png" width="120" />
 </p>
 
 <h1 align="center">ArkenApps</h1>
