@@ -6,43 +6,46 @@
 
 <p align="center">
   <strong>Smart, purpose-driven apps</strong><br/>
-  We design software around how people actually work — simple, practical, and easy to understand. No learning curve. No technical pressure.
+  We design software around how people actually work — simple, practical, and easy to understand.
+  No learning curve. No technical pressure.
 </p>
 
 <p align="center">
-  <a href="https://arkenapps.com">🌐 Website</a> •
+  <a href="https://arkenapps.github.io">🌐 Website</a> •
   <a href="https://github.com/ArkenApps">💻 GitHub</a> •
-  <a href="https://www.youtube.com/@ArkenApps](https://www.youtube.com/@arkenstoneapps">🎥 YouTube</a>
+  <a href="https://www.youtube.com/@arkenstoneapps">🎥 YouTube</a>
 </p>
 
 ---
 
-##  What We Build
+## What We Build
 
-Because everyday tasks shouldn’t feel complicated. Computers should help people — not slow them down. We build apps that are** designed to work:
+Everyday tasks shouldn’t feel complicated. Computers should help people — not slow them down.
+We build apps that are designed to work:
 
--  **Offline**
--  **Fast**
--  **Safe**
+- **Offline**
+- **Fast**
+- **Safe**
 - **Intelligent**
-  
+
 No cloud dependency. No bloat. Just tools that work.
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Featured Project
 
-### 📁 **Arken File Organizer**
-> A safe, offline file organizer that smartly organizes file folders and generates a beautiful dashboard with fast search.
+### 📁 **Arken Smart Organizer**
+> A safe, offline file organizer that intelligently organizes folders and generates a clean, searchable dashboard.
 
 **Highlights**
 - Intelligent file categorization
-- SAFE mode (no EXE / code touched)
-- Offline searchable HTML report
+- SAFE mode (no EXE or system files touched)
+- Offline searchable HTML dashboard
 - Zero installation required
+- Built for Windows 10 & Windows 11
 
-➡️ Repo: `ArkenFileOrganizer`  
-➡️ Download: EXE (Windows)
+➡️ Repo: `ArkenSmartOrganizer`  
+➡️ Platform: Windows (Native)
 
 ---
 
@@ -50,8 +53,8 @@ No cloud dependency. No bloat. Just tools that work.
 
 - **Go (Golang)** – Core engine
 - **Native Windows builds**
-- **HTML/CSS/JS** – Offline reports & dashboards
-- **No external dependencies at runtime**
+- **HTML / CSS / JavaScript** – Offline dashboards & reports
+- **No external runtime dependencies**
 
 ---
 
@@ -59,21 +62,19 @@ No cloud dependency. No bloat. Just tools that work.
 
 > “Your files. Your machine. Your control.”
 
-We believe great tools should:
+We believe great software should:
 - Respect privacy
 - Work without internet
-- Be simple yet powerful
-- Feel professional from first click
+- Be easy from the first click
+- Feel professional and reliable
 
 ---
 
 ## 📬 Contact
 
 📧 arkenstoneapps@gmail.com  
-🌐 https://arkenapps.com  
-
----
+🌐 https://arkenapps.github.io
 
 <p align="center">
-  <em>More tools coming soon…</em>
+  <em>More smart tools coming soon…</em>
 </p>
