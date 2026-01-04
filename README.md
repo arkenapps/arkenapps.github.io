@@ -1,80 +1,70 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArkenApps/main/aklogo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/ArkenApps/assets/main/arken_logo.png" width="120" />
 </p>
 
 <h1 align="center">ArkenApps</h1>
 
 <p align="center">
-  <strong>Smart, purpose-driven apps</strong><br/>
-  We design software around how people actually work — simple, practical, and easy to understand.
-  No learning curve. No technical pressure.
+  <strong>Smart, purpose-driven applications</strong><br/>
+  Offline-first • Native • Privacy-respecting software
 </p>
 
 <p align="center">
   <a href="https://arkenapps.github.io">🌐 Website</a> •
-  <a href="https://github.com/ArkenApps">💻 GitHub</a> •
+  <a href="https://github.com/arkenapps">💻 GitHub</a> •
   <a href="https://www.youtube.com/@arkenstoneapps">🎥 YouTube</a>
 </p>
 
 ---
 
-## What We Build
+## 🚀 What We Build
 
-Everyday tasks shouldn’t feel complicated. Computers should help people — not slow them down.
-We build apps that are designed to work:
+ArkenApps creates **professional desktop tools** designed around how people actually work.
 
-- **Offline**
-- **Fast**
-- **Safe**
-- **Intelligent**
+No clutter.  
+No cloud dependency.  
+No learning curve.
 
-No cloud dependency. No bloat. Just tools that work.
+### Our principles:
+- ⚡ **Fast & Native**
+- 🔒 **Privacy-first**
+- 📴 **Offline by default**
+- 🧠 **Thoughtful UX**
+- 🖥️ **Windows-focused**
 
 ---
 
-## 🧩 Featured Project
+## 🧩 Featured Product
 
 ### 📁 **Arken Smart Organizer**
-> A safe, offline file organizer that intelligently organizes folders and generates a clean, searchable dashboard.
+A safe, offline file organizer for Windows that intelligently categorizes files and generates a beautiful searchable dashboard.
 
 **Highlights**
 - Intelligent file categorization
-- SAFE mode (no EXE or system files touched)
-- Offline searchable HTML dashboard
-- Zero installation required
-- Built for Windows 10 & Windows 11
+- SAFE mode (executables & code never touched)
+- Offline HTML dashboard
+- Portable EXE (no installation)
 
-➡️ Repo: `ArkenSmartOrganizer`  
-➡️ Platform: Windows (Native)
-
----
-
-## 🛠️ Tech Stack
-
-- **Go (Golang)** – Core engine
-- **Native Windows builds**
-- **HTML / CSS / JavaScript** – Offline dashboards & reports
-- **No external runtime dependencies**
+➡️ **Repo:** https://github.com/arkenapps/ArkenSmartOrganizer  
+➡️ **Download:** https://github.com/arkenapps/ArkenSmartOrganizer/releases/latest
 
 ---
 
-## 🎯 Philosophy
+## 🧠 Philosophy
 
 > “Your files. Your machine. Your control.”
 
-We believe great software should:
+We believe software should:
 - Respect privacy
 - Work without internet
-- Be easy from the first click
-- Feel professional and reliable
+- Be simple yet powerful
+- Feel professional from first click
 
 ---
 
-## 📬 Contact
-
-📧 arkenstoneapps@gmail.com  
-🌐 https://arkenapps.github.io
+📧 **Contact:** arkenstoneapps@gmail.com  
+🌐 **Website:** https://arkenapps.github.io  
 
 <p align="center">
-  <em>More smart tools coming soon…</em>
+  <em>More tools coming soon…</em>
 </p>
